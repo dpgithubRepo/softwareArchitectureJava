@@ -58,3 +58,7 @@ This principle states that high level modules should not depend on the low level
 then the change in low level modules will need the massive change of the high level modules. This principle states that high level
 moules should not directly depend on low level modules but should depend on abstractions. Abstraction should not depend on detais but 
 details should depned on abstraction.
+
+
+
+This repo contains the code which demonstrates different design patterns and how they help achieve the SOLID principle.
