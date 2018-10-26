@@ -1,4 +1,4 @@
-# softwareArchitectureJava
+# software Architecture Design Principles - Java
 
 This repo will contain code & documentation related to the following topics. 
 
