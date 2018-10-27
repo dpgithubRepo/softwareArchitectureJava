@@ -1,7 +1,17 @@
 package com.designpattern.strategy;
 
+/**
+ * The Class App.
+ */
 public class App {
 	
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 * 
+	 * @author Durga Prasad
+	 */
 	public static void main(String[] args) {
 		
 		PenetrationPricingStrategy pPricingStrategy = new PenetrationPricingStrategy();
